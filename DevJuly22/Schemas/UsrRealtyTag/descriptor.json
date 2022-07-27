@@ -8,6 +8,7 @@
       "Name": "BaseTag"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Realty section tag"
+    "Caption": "Realty section tag",
+    "DependsOn": []
   }
 }
