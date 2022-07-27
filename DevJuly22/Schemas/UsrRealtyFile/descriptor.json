@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f56fd8b2-59b3-4a82-a0a0-c2086e2c6b00",
+    "Name": "UsrRealtyFile",
+    "ModifiedOnUtc": "\/Date(1658897536000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty attachment"
+  }
+}
