@@ -1,4 +1,4 @@
-define("UsrRealty3Page", [], function() {
+define("UsrRealty1Page", [], function() {
 	return {
 		entitySchemaName: "UsrRealty",
 		attributes: {},
@@ -19,7 +19,7 @@ define("UsrRealty3Page", [], function() {
 		diff: /**SCHEMA_DIFF*/[
 			{
 				"operation": "insert",
-				"name": "UsrName6c54f628-fcce-49a6-97be-8198f9a06513",
+				"name": "UsrNamee69958c6-d5ad-4b8d-ad7a-3006b5b70ed4",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -34,99 +34,6 @@ define("UsrRealty3Page", [], function() {
 				"parentName": "ProfileContainer",
 				"propertyName": "items",
 				"index": 0
-			},
-			{
-				"operation": "insert",
-				"name": "FLOAT490e98cc-a9df-4160-8966-a1c68e9b5e6d",
-				"values": {
-					"layout": {
-						"colSpan": 24,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 1,
-						"layoutName": "ProfileContainer"
-					},
-					"bindTo": "UsrPriceUSD",
-					"enabled": true
-				},
-				"parentName": "ProfileContainer",
-				"propertyName": "items",
-				"index": 1
-			},
-			{
-				"operation": "insert",
-				"name": "FLOAT1e5ec7c3-33d2-4358-91c6-bebd4103e120",
-				"values": {
-					"layout": {
-						"colSpan": 24,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 2,
-						"layoutName": "ProfileContainer"
-					},
-					"bindTo": "UsrArea",
-					"enabled": true
-				},
-				"parentName": "ProfileContainer",
-				"propertyName": "items",
-				"index": 2
-			},
-			{
-				"operation": "insert",
-				"name": "LOOKUP0ec5f335-4998-4ba5-ac86-7559e16f147d",
-				"values": {
-					"layout": {
-						"colSpan": 12,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 0,
-						"layoutName": "Header"
-					},
-					"bindTo": "UsrType",
-					"enabled": true,
-					"contentType": 3
-				},
-				"parentName": "Header",
-				"propertyName": "items",
-				"index": 0
-			},
-			{
-				"operation": "insert",
-				"name": "LOOKUP81cb2d42-d79d-47c7-8850-10b930732810",
-				"values": {
-					"layout": {
-						"colSpan": 12,
-						"rowSpan": 1,
-						"column": 12,
-						"row": 0,
-						"layoutName": "Header"
-					},
-					"bindTo": "UsrOfferType",
-					"enabled": true,
-					"contentType": 3
-				},
-				"parentName": "Header",
-				"propertyName": "items",
-				"index": 1
-			},
-			{
-				"operation": "insert",
-				"name": "STRINGb0e37f26-be46-45b8-984e-dc83ff064263",
-				"values": {
-					"layout": {
-						"colSpan": 24,
-						"rowSpan": 2,
-						"column": 0,
-						"row": 1,
-						"layoutName": "Header"
-					},
-					"bindTo": "UsrComment",
-					"enabled": true,
-					"contentType": 0
-				},
-				"parentName": "Header",
-				"propertyName": "items",
-				"index": 2
 			},
 			{
 				"operation": "insert",
