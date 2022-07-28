@@ -85,7 +85,31 @@
   "A5": "d298d623-98c1-4b56-bc55-76dcc5bfd2fb",
   "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ee3c9567-59a9-453c-b222-f115acb06de9","ea040968-9d7e-430d-83fc-2a9274800a40","67139a1e-e298-4576-8f55-f2359a342962","0c4b01bc-51ae-486d-ba30-fa15282b4dea","7f2d83c1-0094-4941-9453-4d48d291be73","861720d2-c121-40da-9571-875568664e83","aa4cfe7b-8301-41c8-96de-b9202eae7c5c"]
++ MetaData.Schema.D2 {
+  "UId": "925fc0d4-4c64-4ad4-bf6f-1d9ce5ff58c0",
+  "A2": "UsrCountry",
+  "A3": "52203fab-069e-485a-9f66-dc552385e684",
+  "A4": "52203fab-069e-485a-9f66-dc552385e684",
+  "A5": "d298d623-98c1-4b56-bc55-76dcc5bfd2fb",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09fce1f8-515c-4296-95cd-8cd93f79a6cf",
+  "E6": true,
+  "E17": "UsrCountryId",
+  "E18": "UsrCountryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "c91bf111-293f-43f1-a5a9-0e7c4fd64f8c",
+  "A2": "UsrCity",
+  "A3": "52203fab-069e-485a-9f66-dc552385e684",
+  "A4": "52203fab-069e-485a-9f66-dc552385e684",
+  "A5": "d298d623-98c1-4b56-bc55-76dcc5bfd2fb",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5ca90b6a-93e7-4448-befe-ab5166ec2cfe",
+  "E6": true,
+  "E17": "UsrCityId",
+  "E18": "UsrCityName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ee3c9567-59a9-453c-b222-f115acb06de9","ea040968-9d7e-430d-83fc-2a9274800a40","67139a1e-e298-4576-8f55-f2359a342962","0c4b01bc-51ae-486d-ba30-fa15282b4dea","7f2d83c1-0094-4941-9453-4d48d291be73","861720d2-c121-40da-9571-875568664e83","aa4cfe7b-8301-41c8-96de-b9202eae7c5c","925fc0d4-4c64-4ad4-bf6f-1d9ce5ff58c0","c91bf111-293f-43f1-a5a9-0e7c4fd64f8c"]
 - MetaData.Schema.EG1.B6
 - MetaData.Schema.EG1.BK29
 - MetaData.Schema.EG1.BK30
